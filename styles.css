@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+    margin: o auto;
+}
+
+th, td {
+    width: 60px;
+    height: 45px;
+    text-align: center;
+}
+
+th {
+    font-size: 16px;
+    color: red;
+}
+
+td {
+    background-color: pink;
+}
